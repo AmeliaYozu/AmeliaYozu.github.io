@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am currently at liberty diving in the ocean of Computer Vison and Deep Learning, and have found they are extremely charming. *wink* 
+I am currently at liberty diving in the ocean of Computer Vison and Deep Learning, and have found they are extremely charming. \**wink*\* 
 
 Before that, I was a Software Engineer who does what a Software Engineers do. 
 Before that I went to Columbia University majoring Computer Engineering, earned a Master degree.
