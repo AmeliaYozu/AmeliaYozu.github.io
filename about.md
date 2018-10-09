@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am currently diving in the ocean of Computer Vison and Deep Learning, and have found they are extremely charming. \**wink*\* 
+I am currently a cat whisperer in the ocean of Computer Vison and Deep Learning, and have found they are extremely charming. \**wink*\* 
 
 Before that, I was a System Engineer who does what System Engineers do, then one day I quitted, since I suddenly realized my day-to-day life (which I'm *not* very passionate about) could be left in the same day as the first day, and that horrifies me. 
 
