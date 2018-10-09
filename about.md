@@ -6,7 +6,7 @@ permalink: /about/
 
 I am currently a cat whisperer in the ocean of Computer Vison and Deep Learning, and have found they are extremely charming. \**wink*\* 
 
-Before that, I was a System Engineer who does what System Engineers do, then one day I quitted, since I suddenly realized my day-to-day life (which I'm *not* very passionate about) could be left in the same day as the first day, and that horrifies me. 
+Before that, I was a System Engineer who does what System Engineers do, then one day I quitted, since I suddenly realized my day-to-day life (which I was *not* very passionate about) could end up the same day as its yesterday, and that horrified me. 
 
 Before that I went to Columbia University majoring Computer Engineering, earned a Master degree.
 
